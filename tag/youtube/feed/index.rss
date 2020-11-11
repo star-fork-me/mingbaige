@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Youtube &#8211; 加速中国</title>
+	<atom:link href="https://www.fastwebcn.com/tag/youtube/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.fastwebcn.com</link>
+	<description>我们推荐在中国能稳定使用的翻墙软件VPN！</description>
+	<lastBuildDate>Thu, 27 Aug 2020 00:41:15 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://www.fastwebcn.com/wp-content/uploads/2017/08/cropped-logo-1-1-32x32.png</url>
+	<title>Youtube &#8211; 加速中国</title>
+	<link>https://www.fastwebcn.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>看youtube不卡的vpn加速器</title>
+		<link>https://www.fastwebcn.com/best-vpn-for-youtube-in-china/</link>
+					<comments>https://www.fastwebcn.com/best-vpn-for-youtube-in-china/#respond</comments>
+		
+		<dc:creator><![CDATA[vpn知乎]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2020 01:54:00 +0000</pubDate>
+				<category><![CDATA[VPN推荐]]></category>
+		<category><![CDATA[Youtube]]></category>
+		<guid isPermaLink="false">https://www.fastwebcn.com/?p=426</guid>
+
+					<description><![CDATA[<p>在国内看Youtube一般要翻墙，但是很多翻墙软件看一下网页是勉强可以的，看视频却慢的一比，特别是看HD高清的 ... <a title="看youtube不卡的vpn加速器" class="read-more" href="https://www.fastwebcn.com/best-vpn-for-youtube-in-china/" aria-label="More on 看youtube不卡的vpn加速器">阅读更多</a></p>
+<p>The post <a rel="nofollow" href="https://www.fastwebcn.com/best-vpn-for-youtube-in-china/">看youtube不卡的vpn加速器</a> appeared first on <a rel="nofollow" href="https://www.fastwebcn.com">加速中国</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.fastwebcn.com/best-vpn-for-youtube-in-china/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

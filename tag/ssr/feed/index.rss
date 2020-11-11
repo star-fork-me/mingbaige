@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SSR &#8211; 加速中国</title>
+	<atom:link href="https://www.fastwebcn.com/tag/ssr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.fastwebcn.com</link>
+	<description>我们推荐在中国能稳定使用的翻墙软件VPN！</description>
+	<lastBuildDate>Thu, 27 Aug 2020 00:48:36 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://www.fastwebcn.com/wp-content/uploads/2017/08/cropped-logo-1-1-32x32.png</url>
+	<title>SSR &#8211; 加速中国</title>
+	<link>https://www.fastwebcn.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>自己架设VPN/SSR值得吗，被封了怎么办？</title>
+		<link>https://www.fastwebcn.com/%e8%87%aa%e5%b7%b1%e6%9e%b6%e8%ae%bevpn-ssr%e5%80%bc%e5%be%97%e5%90%97%ef%bc%8c%e8%a2%ab%e5%b0%81%e4%ba%86%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f/</link>
+					<comments>https://www.fastwebcn.com/%e8%87%aa%e5%b7%b1%e6%9e%b6%e8%ae%bevpn-ssr%e5%80%bc%e5%be%97%e5%90%97%ef%bc%8c%e8%a2%ab%e5%b0%81%e4%ba%86%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f/#respond</comments>
+		
+		<dc:creator><![CDATA[vpn知乎]]></dc:creator>
+		<pubDate>Sat, 06 Apr 2019 05:53:49 +0000</pubDate>
+				<category><![CDATA[VPN教程]]></category>
+		<category><![CDATA[SSR]]></category>
+		<category><![CDATA[VPN]]></category>
+		<guid isPermaLink="false">https://www.fastwebcn.com/?p=720</guid>
+
+					<description><![CDATA[<p>众所周知，最近几年国内对于翻墙的打击越来越严厉，许多小伙伴自己架设VPN和SS/SSR等工具很不稳定，经常被封 ... <a title="自己架设VPN/SSR值得吗，被封了怎么办？" class="read-more" href="https://www.fastwebcn.com/%e8%87%aa%e5%b7%b1%e6%9e%b6%e8%ae%bevpn-ssr%e5%80%bc%e5%be%97%e5%90%97%ef%bc%8c%e8%a2%ab%e5%b0%81%e4%ba%86%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f/" aria-label="More on 自己架设VPN/SSR值得吗，被封了怎么办？">阅读更多</a></p>
+<p>The post <a rel="nofollow" href="https://www.fastwebcn.com/%e8%87%aa%e5%b7%b1%e6%9e%b6%e8%ae%bevpn-ssr%e5%80%bc%e5%be%97%e5%90%97%ef%bc%8c%e8%a2%ab%e5%b0%81%e4%ba%86%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f/">自己架设VPN/SSR值得吗，被封了怎么办？</a> appeared first on <a rel="nofollow" href="https://www.fastwebcn.com">加速中国</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.fastwebcn.com/%e8%87%aa%e5%b7%b1%e6%9e%b6%e8%ae%bevpn-ssr%e5%80%bc%e5%be%97%e5%90%97%ef%bc%8c%e8%a2%ab%e5%b0%81%e4%ba%86%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apple Store &#8211; 加速中国</title>
+	<atom:link href="https://www.fastwebcn.com/tag/apple-store/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.fastwebcn.com</link>
+	<description>我们推荐在中国能稳定使用的翻墙软件VPN！</description>
+	<lastBuildDate>Thu, 27 Aug 2020 01:25:24 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://www.fastwebcn.com/wp-content/uploads/2017/08/cropped-logo-1-1-32x32.png</url>
+	<title>Apple Store &#8211; 加速中国</title>
+	<link>https://www.fastwebcn.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>如何更改App Store为美国店面，下载iOS版本</title>
+		<link>https://www.fastwebcn.com/how-to-change-app-store-country/</link>
+					<comments>https://www.fastwebcn.com/how-to-change-app-store-country/#comments</comments>
+		
+		<dc:creator><![CDATA[vpn知乎]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2017 04:22:04 +0000</pubDate>
+				<category><![CDATA[VPN教程]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[ios]]></category>
+		<guid isPermaLink="false">https://www.fastwebcn.com/?p=194</guid>
+
+					<description><![CDATA[<p>提醒：有读者反映下面的方法很麻烦，其实如果要方便靠谱，可以到淘宝购买Apple ID，搜“美国ID”，几块钱一 ... <a title="如何更改App Store为美国店面，下载iOS版本" class="read-more" href="https://www.fastwebcn.com/how-to-change-app-store-country/" aria-label="More on 如何更改App Store为美国店面，下载iOS版本">阅读更多</a></p>
+<p>The post <a rel="nofollow" href="https://www.fastwebcn.com/how-to-change-app-store-country/">如何更改App Store为美国店面，下载iOS版本</a> appeared first on <a rel="nofollow" href="https://www.fastwebcn.com">加速中国</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.fastwebcn.com/how-to-change-app-store-country/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
