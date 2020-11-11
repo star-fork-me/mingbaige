@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="690px" height="460px" viewBox="0 0 690 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.1 (72631) - https://sketchapp.com -->
+    <title>19000377-327F-4F94-8111-2F872B807D34</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="24.7729166%" x2="100%" y2="75.2270834%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#E3E3E3" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M11,2 L604,2 C608.970563,2 613,6.02943725 613,11 L613,427 C613,431.970563 608.970563,436 604,436 L11,436 C6.02943725,436 2,431.970563 2,427 L2,11 C2,6.02943725 6.02943725,2 11,2 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="50.9359194%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#DBDBDB" offset="0%"></stop>
+            <stop stop-color="#C3C3C3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#E3E3E3" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="3.89379529%"></stop>
+            <stop stop-color="#F0F0F0" offset="20%"></stop>
+            <stop stop-color="#F4F4F4" offset="50%"></stop>
+            <stop stop-color="#F0F0F0" offset="80%"></stop>
+            <stop stop-color="#F0F0F0" offset="96.1676291%"></stop>
+            <stop stop-color="#E3E3E3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="97.3288475%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#F5F5F5" offset="0%"></stop>
+            <stop stop-color="#E1E1E1" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-6" points="0 0 551 0 551 380 0 380"></polygon>
+        <rect id="path-8" x="0" y="0" width="551" height="380"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="59.4492962%" id="linearGradient-10">
+            <stop stop-color="#2B76EB" offset="0%"></stop>
+            <stop stop-color="#BAD4EB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="36.5508643%" x2="0%" y2="57.2397836%" id="linearGradient-11">
+            <stop stop-color="#395733" offset="0%"></stop>
+            <stop stop-color="#7A9D30" offset="25.7044798%"></stop>
+            <stop stop-color="#88AC2F" offset="51.7573545%"></stop>
+            <stop stop-color="#395413" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="68.250786%" y1="44.0257927%" x2="67.4626111%" y2="46.2227493%" id="linearGradient-12">
+            <stop stop-color="#000000" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.9875185%" y1="47.3875151%" x2="10.0614481%" y2="51.4962117%" id="linearGradient-13">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.25" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1,380 L1,185 C57.0345038,170.333333 129.756329,166.666667 219.165476,174 C291.474625,179.930792 369.236562,195.912262 469.717309,211 C485.558739,213.378678 512.986303,215.378678 552,217 L552,380 L1,380 Z" id="path-14"></path>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="51.4551994%" id="linearGradient-15">
+            <stop stop-color="#47611F" offset="0%"></stop>
+            <stop stop-color="#2E490A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Windows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Windows-/-Surface-Pro-/-Silver-/-Windows-XP">
+            <g id="Surface-Pro---Silver">
+                <g id="Core" transform="translate(38.000000, 0.000000)" stroke-linecap="square">
+                    <path d="M10,0 L605,0 C610.522847,-1.01453063e-15 615,4.4771525 615,10 L615,428 C615,433.522847 610.522847,438 605,438 L10,438 C4.4771525,438 -5.61670651e-14,433.522847 -5.68434189e-14,428 L-5.5067062e-14,10 C-5.57434158e-14,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="Outter" stroke="#DEDEDE" stroke-width="0.5" fill="#F9F9F9"></path>
+                    <g id="Inner" opacity="0.5">
+                        <use fill="#F6F6F6" xlink:href="#path-2"></use>
+                        <use stroke="#DFDFDF" stroke-width="0.5" fill-opacity="0.5" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+                <g id="Panel" transform="translate(0.000000, 436.000000)">
+                    <path d="M2.4158453e-13,16 L2.27373675e-13,-2.84217094e-14 L690,-2.84217094e-14 L690,16 L690,16 C679.47794,21.2610302 667.875477,24 656.111456,24 L650,24 L40,23.9755556 L33.8885345,23.9817802 C22.125237,23.9937613 10.5214186,21.2607093 2.48689958e-13,16 L2.4158453e-13,16 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                    <polygon id="Rectangle" fill="url(#linearGradient-4)" points="0 0 690 0 690 16 0 16"></polygon>
+                    <polygon id="Combined-Shape" fill="#FFFFFF" points="231 1.38777878e-16 459 1.38777878e-16 454 10 236 10"></polygon>
+                </g>
+                <g id="Camera" transform="translate(326.000000, 11.000000)" fill-rule="nonzero">
+                    <path d="M19,10.0011389 C16.2385763,10.0011389 14,7.76230769 14,5.00056944 C14,2.2388312 16.2385763,1.687539e-14 19,1.687539e-14 C21.7614237,1.687539e-14 24,2.2388312 24,5.00056944 C24,7.76230769 21.7614237,10.0011389 19,10.0011389 Z M19,8.00068333 C20.6568542,8.00068333 22,6.65738461 22,5.00034167 C22,3.34329872 20.6568542,2 19,2 C17.3431458,2 16,3.34329872 16,5.00034167 C16,6.65738461 17.3431458,8.00068333 19,8.00068333 Z" fill="url(#linearGradient-5)"></path>
+                    <ellipse id="Speaker" fill="#E1E1E1" cx="2.99965837" cy="5" rx="2.99965837" ry="3"></ellipse>
+                    <path d="M35,8 C33.3431458,8 32,6.65685425 32,5 C32,3.34314575 33.3431458,2 35,2 C36.6568542,2 38,3.34314575 38,5 C38,6.65685425 36.6568542,8 35,8 Z M35,6.79986335 C35.9941125,6.79986335 36.8,5.9939759 36.8,4.99986335 C36.8,4.0057508 35.9941125,3.19986335 35,3.19986335 C34.0058875,3.19986335 33.2,4.0057508 33.2,4.99986335 C33.2,5.9939759 34.0058875,6.79986335 35,6.79986335 Z" id="Lens" fill="#E1E1E1"></path>
+                </g>
+                <g id="Screen" transform="translate(70.000000, 31.000000)">
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <use fill-opacity="0.1" fill="#222E3A" xlink:href="#path-6"></use>
+                    <g id="Windows-/-Wallpapers-/-Windows-XP" mask="url(#mask-7)">
+                        <mask id="mask-9" fill="white">
+                            <use xlink:href="#path-8"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Wallpaper" stroke-width="1" fill-rule="evenodd" mask="url(#mask-9)">
+                            <g transform="translate(-1.000000, 0.000000)" fill-rule="nonzero">
+                                <polygon id="Path-7" fill="url(#linearGradient-10)" points="0.702944942 380 552.702945 380 552.623574 0 0.702944942 0"></polygon>
+                                <polygon id="Path-6" fill="#465598" points="460 210 466.153448 203 470 210 482 206.5 492 210 504 206.5 513 206.5 524 203 533 206.5 538.306122 210 549.734694 206.5 552.035262 210 552.035262 229 468.153448 226"></polygon>
+                                <g id="Path-5" fill="none">
+                                    <use fill="url(#linearGradient-11)" xlink:href="#path-14"></use>
+                                    <use fill-opacity="0.5" fill="url(#linearGradient-12)" xlink:href="#path-14"></use>
+                                    <use fill="url(#linearGradient-13)" xlink:href="#path-14"></use>
+                                </g>
+                                <path d="M1,330 L1,297 C192.333333,294.333333 309.731535,292.666667 353.194606,292 C397.064869,291.333333 463.444106,288.333333 552.332317,283 L552.332317,380 L1,380 L1,330 Z" id="Path-8" fill="#2C381B"></path>
+                                <path d="M1,308 C131.416985,299.333333 224.79302,295 281.128105,295 C337.46319,295 427.753822,292 552,286 L552,380 L1,380 L1,308 Z" id="Path" fill="url(#linearGradient-15)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
